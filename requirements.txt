@@ -1,0 +1,4 @@
+streamlit>=1.38
+fal-client>=0.7.0
+requests>=2.31
+imageio-ffmpeg>=0.5.1
